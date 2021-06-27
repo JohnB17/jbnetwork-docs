@@ -14,7 +14,7 @@ module.exports = {
           },
           {
             text: "Contribute",
-            link: "https://github.com/JohnB17/jbnetwork-docs"
+            link: "https://github.com/JB-MC-Network/jbnetwork-docs"
           },
           {
               text: "Discord",
