@@ -12,5 +12,5 @@ features:
   details: Nothing seems to be here yet, maybe you can contribute?
 - title: Nothing
   details: Nothing seems to be here yet, maybe you can contribute?
+footer: Made by JohnB with VuePress
 ---
-<Footer/>

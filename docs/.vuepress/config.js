@@ -28,6 +28,7 @@ module.exports = {
               children: [
                 'terminology',
                 'parties',
+                'friends',
               ]
             }],
             '/smpguides/': [{
