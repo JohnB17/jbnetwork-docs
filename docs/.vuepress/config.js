@@ -37,6 +37,7 @@ module.exports = {
               children: [
                 'terminology',
                 'griefprevention',
+                'chestshop',
               ]
             }]
           }
